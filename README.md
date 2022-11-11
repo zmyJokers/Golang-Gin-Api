@@ -1,6 +1,6 @@
-# Project Middleground（中台）
->该项目为golang语言开发的纯API中台项目，请严格遵守[代码开发规范](#代码开发规范)
-
+# Project Golang Api
+>该项目为golang语言开发的纯API Project，请严格遵守[代码开发规范](#代码开发规范)
+>目前集成了RabbitMQ、Mysql数据库。
 ### 目录树
 ***
 ```
@@ -32,7 +32,7 @@ go get -u github.com/go-sql-driver/mysql v1.6.0
 go get -u github.com/streadway/amqp v1.0.0
 
 # 运行项目 
-`go run middleground` 运行项目（最好使用包的形式运行）
+`go run middleground` 运行项目
 * 运行失败请检查相关提示
 
 # 地址 
