@@ -1,3 +1,9 @@
 *.js linguist-language=Go
+*.cs linguist-language=Go
+*.html linguist-language=Go
 *.js linguist-language=Gin
+*.cs linguist-language=Gin
+*.html linguist-language=Gin
 *.js linguist-language=Rabbitmq
+*.cs linguist-language=Rabbitmq
+*.html linguist-language=Rabbitmq
