@@ -1,4 +1,4 @@
-# Project Golang Api
+# Project Golang-Gin Api
 >该项目为golang语言开发的纯API Project，请严格遵守[代码开发规范](#代码开发规范)
 >目前集成了RabbitMQ、Mysql数据库。
 ### 目录树
