@@ -1,0 +1,3 @@
+*.js linguist-language=Go
+*.js linguist-language=Gin
+*.js linguist-language=Rabbitmq
